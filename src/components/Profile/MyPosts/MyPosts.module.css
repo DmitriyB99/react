@@ -1,0 +1,12 @@
+.posts{
+    color: white;
+    margin-top: 10px;
+}
+
+textarea {
+    resize: none;
+}
+
+.postsBlock {
+    padding: 10px;
+}
